@@ -1,0 +1,19 @@
+# Compiler outputs
+out/
+cache/
+
+# Node
+node_modules/
+.npm/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Foundry
+broadcast/
